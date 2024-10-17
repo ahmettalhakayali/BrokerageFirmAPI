@@ -15,7 +15,7 @@ The application includes essential endpoints for handling stock exchange operati
 # Prerequisites
 To run this project, you need the following:
 
-- I cannot connect nexus ip without vpn while trying to maven update for gettin pom.xml dependencies so I suggest you to check this.
+- I cannot connect nexus ip without vpn while trying to maven update for getting pom.xml dependencies so I suggest you to check this.
 - Java 8 or later installed
 - Maven installed (or use the Maven wrapper mvnw included in the project)
 - An IDE (IntelliJ IDEA, Eclipse, Spring Tool Suite) or text editor (I used Spring Suite Tools 4 with Eclipse)
