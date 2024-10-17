@@ -157,4 +157,4 @@ or
 - JUnit: For unit testing.
 - Mockito: For mocking repository dependencies in service layer tests.
 
-# ALSO YOU CAN SEE THE .ZIP FILE FOR ENTİRE PROJECT WHEN YOU PULL THE PROJECT .ZIP FILE PULLED TOO. SO BE SURE THAT YOU MAY NEED TO SEPERATE .ZIP FILE FROM YOUR IDE.
+# THE END
